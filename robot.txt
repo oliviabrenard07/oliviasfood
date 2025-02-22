@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+Disallow: /contact
+Allow: /about
+Sitemap: https://oliviasrecipe.xyz/sitemap.xml
